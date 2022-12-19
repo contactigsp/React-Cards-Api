@@ -1,0 +1,11 @@
+body {
+  background: #17181c;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
